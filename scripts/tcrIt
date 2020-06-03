@@ -1,0 +1,3 @@
+#!/bin/bash
+
+buildIt && (testIt && commitIt || revertIt)

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for f in *.rb; do
+  echo "$f"
+  ruby -c "$f"
+  rubocop "$f"
+done
