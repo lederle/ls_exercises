@@ -4,3 +4,6 @@
 [submodule "small_problems/easy1/06-reverse_it2"]
 	path = small_problems/easy1/06-reverse_it2
 	url = https://gist.github.com/lederle/905a102ab0d4297f31abfbf267638dcf
+[submodule "small_problems/easy1/07-stringy_strings"]
+	path = small_problems/easy1/07-stringy_strings
+	url = https://gist.github.com/lederle/594705cedd15a6817b1385dc0316b9a1
