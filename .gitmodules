@@ -1,3 +1,6 @@
 [submodule "small_problems/easy1/05-reverse_it1"]
 	path = small_problems/easy1/05-reverse_it1
 	url = https://gist.github.com/lederle/cf9c0fd88016611fe3e30b3db8060dc6
+[submodule "small_problems/easy1/06-reverse_it2"]
+	path = small_problems/easy1/06-reverse_it2
+	url = https://gist.github.com/lederle/905a102ab0d4297f31abfbf267638dcf
