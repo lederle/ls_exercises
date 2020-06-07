@@ -19,7 +19,11 @@ touch $exercise_file $test_file
 echo "# frozen_string_literal: true" | tee $exercise_file $test_file
 cat <<- EOF >> $test_file
 
+<<<<<<< HEAD
 require minitest/autorun
+=======
+require 'minitest/autorun'
+>>>>>>> exercise_template
 EOF
 echo "require_relative '$exercise_name'" >> $test_file
 echo "" >> $test_file
