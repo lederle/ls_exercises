@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# run from easy1, easy2, etc. directory
+set -e
+
+gist_url=$1
+numbered_exercise_name=$2
+
+git submodule add $gist_url $numbered_exercise_name
+
+cd $numbered_exercise_name
+
+exercise_name=${numbered_exercise_name:3}
+exercise_file=${exercise_name}.rb
+test_file=${exercise_name}_test.rb
+
+touch $exercise_file $test_file
+
+echo "# frozen_string_literal: true" | tee $exercise_file $test_file
+cat <<- EOF >> $test_file
+
+require minitest/autorun
+EOF
+echo "require_relative '$exercise_name'" >> $test_file
+echo "" >> $test_file
+
+arr=(${exercise_name//_/ })
+printf -v camel %s "${arr[@]^}"
+echo "class ${camel}Test < Minitest::Test" >> $test_file
+cat <<- EOF >> $test_file
+  def test_canary
+    refute nil
+  end
+end
+EOF
+
+# git add .
+# git commit -m "working"
+
+# Think of common things to add to markdown
