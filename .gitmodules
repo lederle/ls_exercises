@@ -10,3 +10,6 @@
 [submodule "small_problems/easy1/08-array_average"]
 	path = small_problems/easy1/08-array_average
 	url = https://gist.github.com/lederle/7594dc73912f60bf3a52d1cc9b1db482
+[submodule "small_problems/easy1/09-sum_of_digits"]
+	path = small_problems/easy1/09-sum_of_digits
+	url = https://gist.github.com/lederle/61a0ee8acb4095a654dce3288b33ea0d
