@@ -34,7 +34,12 @@ cat <<- EOF >> $test_file
 end
 EOF
 
-# git add .
-# git commit -m "working"
+# in submodule
+git add .
+git commit -m "working"
+
+# do git to add submodule to main repo
+# git add -A
+# git commit -m "new submodule"
 
 # Think of common things to add to markdown
