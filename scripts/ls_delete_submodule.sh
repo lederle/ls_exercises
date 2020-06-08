@@ -2,13 +2,13 @@
 
 set -e
 
-submodule_name=$1
+path_to_submodule=$1
 
-git submodule deinit -f $submodule_name
+git submodule deinit -f $path_to_submodule
 echo "completed git submodule deinit -f"
-git rm -f $submodule_name
-echo "completed git rm -f"
-git rm -f --cached $submodule_name
-echo "completed git rm -f --cached"
-rm -rf .git/modules/$submodule_name
+
+rm -rf .git/modules/$path_to_submodule
 echo "completed rm -rf .git/modules"j
+
+git rm -f $path_to_submodule
+echo "completed git rm -f"
