@@ -38,9 +38,13 @@ EOF
 cat <<- EOF >> $(git ls-files | grep "^\.")
 
 ## Pre-Game Walkthrough
+
 ## Post-Mortem
+
 ## Further Exploration
+
 ## Model Solution
+
 ## Other Interesting Solutions
 EOF
 
