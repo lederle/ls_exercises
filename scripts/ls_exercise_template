@@ -34,6 +34,16 @@ cat <<- EOF >> $test_file
 end
 EOF
 
+# Think of common things to add to markdown
+cat <<- EOF >> $(git ls-files | grep "^\.")
+
+## Pre-Game Walkthrough
+## Post-Mortem
+## FurtherExploration
+## Model Solution
+## Other Interesting Solutions
+EOF
+
 # in submodule
 git add .
 git commit -m "working"
@@ -43,4 +53,3 @@ cd ..
 git add -A
 git commit -m "new submodule"
 
-# Think of common things to add to markdown
