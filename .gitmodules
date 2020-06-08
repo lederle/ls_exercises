@@ -13,3 +13,6 @@
 [submodule "small_problems/easy1/09-sum_of_digits"]
 	path = small_problems/easy1/09-sum_of_digits
 	url = https://gist.github.com/lederle/61a0ee8acb4095a654dce3288b33ea0d
+[submodule "small_problems/easy1/10-whats_my_bonus"]
+	path = small_problems/easy1/10-whats_my_bonus
+	url = https://gist.github.com/lederle/4d6f19989b12b20b9cb4bbc8e2a7b63b
