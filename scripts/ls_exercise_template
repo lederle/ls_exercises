@@ -39,7 +39,8 @@ git add .
 git commit -m "working"
 
 # do git to add submodule to main repo
-# git add -A
-# git commit -m "new submodule"
+cd ..
+git add -A
+git commit -m "new submodule"
 
 # Think of common things to add to markdown
