@@ -7,6 +7,3 @@
 [submodule "small_problems/easy1/07-stringy_strings"]
 	path = small_problems/easy1/07-stringy_strings
 	url = https://gist.github.com/lederle/594705cedd15a6817b1385dc0316b9a1
-[submodule "small_problems/easy1/08-array_average"]
-	path = small_problems/easy1/08-array_average
-	url = https://gist.github.com/lederle/7594dc73912f60bf3a52d1cc9b1db482
