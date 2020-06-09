@@ -34,3 +34,6 @@
 [submodule "small_problems/easy2/06-odd_numbers"]
 	path = small_problems/easy2/06-odd_numbers
 	url = https://gist.github.com/lederle/9aa96539225a87bb7d75b8df8156a2f3
+[submodule "small_problems/easy2/07-even_numbers"]
+	path = small_problems/easy2/07-even_numbers
+	url = https://gist.github.com/lederle/233f647b320fd0dda03f6f2336440acf
