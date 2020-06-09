@@ -16,3 +16,6 @@
 [submodule "small_problems/easy1/10-whats_my_bonus"]
 	path = small_problems/easy1/10-whats_my_bonus
 	url = https://gist.github.com/lederle/4d6f19989b12b20b9cb4bbc8e2a7b63b
+[submodule "small_problems/easy2/01-how_old_is_teddy"]
+	path = small_problems/easy2/01-how_old_is_teddy
+	url = https://gist.github.com/lederle/d229b2076c48c5da9139902be724c978
