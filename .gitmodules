@@ -31,3 +31,6 @@
 [submodule "small_problems/easy2/05-greeting_a_user"]
 	path = small_problems/easy2/05-greeting_a_user
 	url = https://gist.github.com/lederle/660cadf223249f0fd474f14fcda07f30
+[submodule "small_problems/easy2/06-odd_numbers"]
+	path = small_problems/easy2/06-odd_numbers
+	url = https://gist.github.com/lederle/9aa96539225a87bb7d75b8df8156a2f3
