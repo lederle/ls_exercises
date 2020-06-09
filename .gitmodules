@@ -40,3 +40,6 @@
 [submodule "small_problems/easy2/08-sum_or_product_of_consecutive_integers"]
 	path = small_problems/easy2/08-sum_or_product_of_consecutive_integers
 	url = https://gist.github.com/lederle/1c7c36bcb21fef0f30686dad4a7d159e
+[submodule "small_problems/easy2/09-string_assignment"]
+	path = small_problems/easy2/09-string_assignment
+	url = https://gist.github.com/lederle/fa9597012aff71c7fb4d8d4f414db470
