@@ -19,3 +19,6 @@
 [submodule "small_problems/easy2/01-how_old_is_teddy"]
 	path = small_problems/easy2/01-how_old_is_teddy
 	url = https://gist.github.com/lederle/d229b2076c48c5da9139902be724c978
+[submodule "small_problems/easy2/02-how_big_is_the_room"]
+	path = small_problems/easy2/02-how_big_is_the_room
+	url = https://gist.github.com/lederle/622bf865d02c2d7db74fb8aa8ab0aaaa
