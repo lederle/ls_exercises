@@ -43,3 +43,6 @@
 [submodule "small_problems/easy2/09-string_assignment"]
 	path = small_problems/easy2/09-string_assignment
 	url = https://gist.github.com/lederle/fa9597012aff71c7fb4d8d4f414db470
+[submodule "small_problems/easy2/10-mutation"]
+	path = small_problems/easy2/10-mutation
+	url = https://gist.github.com/lederle/ec2cda7ccea979965e083f0783f77da3
