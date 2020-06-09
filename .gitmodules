@@ -37,3 +37,6 @@
 [submodule "small_problems/easy2/07-even_numbers"]
 	path = small_problems/easy2/07-even_numbers
 	url = https://gist.github.com/lederle/233f647b320fd0dda03f6f2336440acf
+[submodule "small_problems/easy2/08-sum_or_product_of_consecutive_integers"]
+	path = small_problems/easy2/08-sum_or_product_of_consecutive_integers
+	url = https://gist.github.com/lederle/1c7c36bcb21fef0f30686dad4a7d159e
