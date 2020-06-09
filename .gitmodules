@@ -25,3 +25,6 @@
 [submodule "small_problems/easy2/03-tip_calculator"]
 	path = small_problems/easy2/03-tip_calculator
 	url = https://gist.github.com/lederle/4ad4623935f28e88929c28051d21d4f9
+[submodule "small_problems/easy2/04-when_will_i_retire"]
+	path = small_problems/easy2/04-when_will_i_retire
+	url = https://gist.github.com/lederle/ce087a905de4c450bfcced36b5f5cb57
