@@ -22,3 +22,6 @@
 [submodule "small_problems/easy2/02-how_big_is_the_room"]
 	path = small_problems/easy2/02-how_big_is_the_room
 	url = https://gist.github.com/lederle/622bf865d02c2d7db74fb8aa8ab0aaaa
+[submodule "small_problems/easy2/03-tip_calculator"]
+	path = small_problems/easy2/03-tip_calculator
+	url = https://gist.github.com/lederle/4ad4623935f28e88929c28051d21d4f9
