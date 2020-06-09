@@ -28,3 +28,6 @@
 [submodule "small_problems/easy2/04-when_will_i_retire"]
 	path = small_problems/easy2/04-when_will_i_retire
 	url = https://gist.github.com/lederle/ce087a905de4c450bfcced36b5f5cb57
+[submodule "small_problems/easy2/05-greeting_a_user"]
+	path = small_problems/easy2/05-greeting_a_user
+	url = https://gist.github.com/lederle/660cadf223249f0fd474f14fcda07f30
