@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # run from easy1, easy2, etc. directory
+# example usage:
+# ls_exercise_template https://gist.github.com/lederle/10e23a8f2b9e73858bef20968667075c 01-searching_101
 set -e
 
 gist_url=$1
