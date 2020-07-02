@@ -8,9 +8,8 @@ set -e
 gist_url=$1
 numbered_exercise_name=$2
 
-git submodule add $gist_url $numbered_exercise_name
+git submodule add --force $gist_url $numbered_exercise_name
 
-mkdir $numbered_exercise_name
 cd $numbered_exercise_name
 
 exercise_name=${numbered_exercise_name:3}

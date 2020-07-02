@@ -46,3 +46,6 @@
 [submodule "small_problems/easy2/10-mutation"]
 	path = small_problems/easy2/10-mutation
 	url = https://gist.github.com/lederle/ec2cda7ccea979965e083f0783f77da3
+[submodule "small_problems/easy3/01-searching_101"]
+	path = small_problems/easy3/01-searching_101
+	url = https://gist.github.com/lederle/10e23a8f2b9e73858bef20968667075c
